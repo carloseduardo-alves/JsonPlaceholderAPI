@@ -11,11 +11,11 @@ Este projeto foi desenvolvido para consumir a API JSONPlaceHolder usando ASP.NET
 - [Contato](#contato)
 
 ## Tecnologias Utilizadas
-- ** ASP NET Core **
-- ** HttpClientFactory **
-- ** xUnit para testes unitários **
-- ** Moq para simulação de dependências **
-- ** ILogger para logging **
+- **ASP NET Core**
+- **HttpClientFactory**
+- **xUnit para testes unitários**
+- **Moq para simulação de dependências**
+- **ILogger para logging**
 
 ## Como instalar e Executar o projeto
 1. Clone o repositório:
