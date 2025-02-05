@@ -21,19 +21,20 @@ Este projeto foi desenvolvido para consumir a API JSONPlaceHolder usando ASP.NET
 1. Clone o repositório:
    ```bash
    git clone https://github.com/carloseduardo-alves/JsonPlaceholderAPI.git
+   ```
 
 2. Instale as dependências
-  ```bash
+   ```bash
    dotnet restore
    ```
 
 3. Execute o projeto
-```bash
+   ```bash
    dotnet run
    ```
 
 4. Executar os testes
-```bash
+   ```bash
    dotnet test
    ```
 
